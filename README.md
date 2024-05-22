@@ -2,7 +2,7 @@
 <h1>AutoSEffSwitch</h1>
 
 ![stars](https://img.shields.io/github/stars/HChenX/AutoSEffSwitch?style=flat)
-![downloads](https://img.shields.io/github/downloads/HChenX/AutoSEffSwitch/total)
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.hchen.autoseffswitch/total)
 ![Github repo size](https://img.shields.io/github/repo-size/HChenX/AutoSEffSwitch)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/HChenX/AutoSEffSwitch)](https://github.com/HChenX/AutoSEffSwitch/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/HChenX/AutoSEffSwitch)](https://github.com/HChenX/AutoSEffSwitch/releases)
